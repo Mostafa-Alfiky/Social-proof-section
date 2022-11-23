@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Screenshot-desktop.webp)
+![Screenshot](./Screenshot-desktop.webp)
 
 ### Links
 
